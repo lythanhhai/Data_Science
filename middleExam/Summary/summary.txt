@@ -1,10 +1,17 @@
-1. Number of NobelPrize Awarded per year(line or ... graph)(requirement 2)
-2. Prize amount, prize amount adjusted followed by category(bar chart)(requirement 2)
+1.1. Task
+1. Number of NobelPrize Awarded per year(line or ... graph)(requirement 2) tick
+2. Prize amount, prize amount adjusted followed by category(bar chart)(requirement 2) tick 
+5. NobelPrize related to brain(motivation) 
+6. Distribution category, Date Awarded, prizeAmount, portion, gender, birth continent, death city, month, year, prize status
+, individual or organization(requirement 1) (subplot in a graph) tick
+7. Which Country Won the Highest Number on NobelPrizes? tick
+8. Is the Poissibility of Winning a NobelPrize Depending on your Age?(requirement 2, 3) tick
+9. Does your Day, month, year of Birth Affect your Chances to Win a NobelPrize? (Actually, not really)
+10. Status Awarded
 3. Is more possible that I will win a prize if I'm a man than a woman?(bar chart)(requirement 3)
 4. Does the country where I was born, influence my win?(bar chart)(requirement 3)
-5. NobelPrize related to brain 
-6. Distribution category, Date Awarded, prizeAmount, portion, gender, birth continent, death city, month, year, prize status
-(requirement 1)
-7. Which Country Won the Highest Number on NobelPrizes?
-8. Is the Poissibility of Winning a NobelPrize Depending on your Age?
-8. Does your Day of Birth Affect your Chances to Win a NobelPrize? (Actually, not really)
+
+1.2. Solution
+1 with 2(common in graph)()
+heatmap for variable ralationship 
+
